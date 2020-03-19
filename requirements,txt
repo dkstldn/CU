@@ -1,0 +1,9 @@
+pathlib.py==0.16.12
+importlib.util.py==0.16.12
+pip.py==0.16.12
+StringIO.py==0.16.12
+pip.py==0.16.12
+parse_requirements.py==0.16.12
+discord.py==0.16.12
+io.py==0.16.12
+asyncio.py==0.16.12
